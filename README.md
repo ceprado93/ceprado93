@@ -39,6 +39,11 @@
   <img src="https://img.shields.io/badge/REST%20-201E84.svg?&style=for-the-badge&logo=REST&logoColor=white" />
 </p>
 
+*** *** ***
+
+[![Carlos's github stats](https://github-readme-stats.vercel.app/api?username=ceprado93)](https://github.com/ceprado93/github-readme-stats)
+
+
 
 <!--
 **ceprado93/ceprado93** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
