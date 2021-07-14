@@ -43,6 +43,11 @@
 
 [![Carlos's github stats](https://github-readme-stats.vercel.app/api?username=ceprado93)](https://github.com/ceprado93/github-readme-stats)
 
+*** *** ***
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ceprado93)](https://github.com/ceprado93/github-readme-stats)
+
+
 
 
 <!--
