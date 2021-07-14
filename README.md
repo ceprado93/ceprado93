@@ -1,7 +1,5 @@
 ### Hi there 👋
 
-*** *** ***
-
 
 ## SKILLS
 ### LANGUAGES
