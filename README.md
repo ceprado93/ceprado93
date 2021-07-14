@@ -9,7 +9,6 @@
     <img src="https://img.shields.io/badge/Sass%20-7119C2.svg?&style=for-the-badge&logoColor=white" />
   <img src="https://img.shields.io/badge/SQL%20-201E84.svg?style=for-the-badge&logo=SQL&logoColor=white" />
   <img src="https://img.shields.io/badge/MongoDB%20-2A42D0.svg?&style=for-the-badge&logo=ActiveRecord&logoColor=white" />
-  <img src="https://img.shields.io/badge/GraphQL%20-B8189A.svg?&style=for-the-badge&logo=GraphQL&logoColor=white" />
     <img src="https://img.shields.io/badge/css3%20-7119C2.svg?&style=for-the-badge&logo=css3&logoColor=white" />
 
 </p>
