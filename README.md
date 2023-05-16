@@ -4,7 +4,7 @@
 ## SKILLS
 ### LANGUAGES
 <p>
-  <img src="https://img.shields.io/badge/javascript%20-2A42D0.svg?&style=for-the-badge&logo=javascript&logoColor=white" />
+  <img src="https://img.shields.io/badge/javascript%20-FFFFFF.svg?&style=for-the-badge&logo=javascript&logoColor=white" />
       <img src="https://img.shields.io/badge/php3%20-7119C2.svg?&style=for-the-badge&logo=php&logoColor=white" />
   <img src="https://img.shields.io/badge/html5%20-B8189A.svg?&style=for-the-badge&logo=html5&logoColor=white" />
     <img src="https://img.shields.io/badge/Sass%20-7119C2.svg?&style=for-the-badge&logoColor=white" />
