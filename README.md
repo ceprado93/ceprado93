@@ -1,5 +1,4 @@
-### Hi there 👋
-
+### Hi there 
 
 ## SKILLS
 ### LANGUAGES
@@ -22,21 +21,6 @@
   <img src="https://img.shields.io/badge/React%20Native%20-000.svg?&style=for-the-badge" />
   <img src="https://img.shields.io/badge/node.js%20-000.svg?&style=for-the-badge&logo=node.js&logoColor=white" />
   <img src="https://img.shields.io/badge/express.js%20-000.svg?&style=for-the-badge&logo=express.js&logoColor=white" />
-</p>
-
-### TOOLS 
-<p>
-  <img src="https://img.shields.io/badge/Filezilla%20-000.svg?&style=for-the-badge&logo=rspec&logoColor=white" />
-  <img src="https://img.shields.io/badge/heroku%20-000.svg?&style=for-the-badge&logo=heroku&logoColor=white" />
-  <img src="https://img.shields.io/badge/Atom%20-000.svg?&style=for-the-badge&logo=CI&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git%20-000.svg?&style=for-the-badge&logo=Git&logoColor=white" />
-</p>
-
-### PROCESSES
-<p>
-  <img src="https://img.shields.io/badge/OOP%20-000.svg?&style=for-the-badge&logo=OOP&logoColor=white" />
-  <img src="https://img.shields.io/badge/MVC%20-000.svg?&style=for-the-badge&logo=MVC&logoColor=white" />
-  <img src="https://img.shields.io/badge/REST%20-000.svg?&style=for-the-badge&logo=REST&logoColor=white" />
 </p>
 
 *** *** ***
